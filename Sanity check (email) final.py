@@ -1,9 +1,9 @@
 import pandas as pd
 import re
 
-input_file = r"D:\Hubspot contact\DB (Second cons)\14-10\wf\2.San em\pop_valid.xlsx"
-output_file_valid = r"D:\Hubspot contact\DB (Second cons)\14-10\wf\2.San em\san_em_valid.xlsx"
-output_file_invalid = r"D:\Hubspot contact\DB (Second cons)\14-10\wf\2.San em\san_em_invalid.xlsx"
+input_file = #file_link
+output_file_valid = #file_link
+output_file_invalid = #file_link
 
 df = pd.read_excel(input_file)
 
